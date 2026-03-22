@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Beastly&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Knewave&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kenia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Diplomata&display=swap');
+
+body{
+    background-color: goldenrod;
+}
+
+h1{
+    color:crimson;
+    font-family: "Rubik Beastly", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2{
+    color:rgb(0, 255, 72);
+}
+
+h3{
+    color:blueviolet;
+    font-family: "Knewave", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+li{
+    font-family: "Kenia", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.first{
+    font-family: "Diplomata", serif;
+    font-weight: 400;
+    font-style: normal;
+}
